@@ -19,5 +19,6 @@ public class TestGit {
         System.out.println("hello git! forth commit!->Merge branch!->new branch!");
         System.out.println("hello git! new branch!");
         System.out.println("hello git! test push remote");
+        System.out.println("hello git! test pull remote");
     }
 }
