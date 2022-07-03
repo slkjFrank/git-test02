@@ -15,5 +15,6 @@ public class TestGit {
         System.out.println("hello git!");
         System.out.println("hello git! second commit");
         System.out.println("hello git! second commit! hot-fix branch!");
+        System.out.println("hello git! third commit!->second commit! hot-fix branch!");
     }
 }
